@@ -18,7 +18,7 @@ The greatest thing about the internet is the democratisation of information. Lik
 <h4>The list - work down it in order</h4>
 <h3>Tier 1 - get started</h3>
 <ul>
-<li>Book: <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&amp;%20going/README.md#you-dont-know-js-up--going">You Don't Know JS: Up &amp; Going</a></li>
+<li>Book: <a href="https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md">You Don't Know JS: Get Started</a></li>
 <li>Book: <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&amp;%20closures/README.md#you-dont-know-js-scope--closures">You Don't Know JS: Scope &amp; Closures</a></li>
 <li>Book: <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&amp;%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes">You Don't Know JS: this &amp; Object Prototype</a></li>
 <li>Course: <a href="http://learn.shayhowe.com/html-css/">Learn to Code HTML &amp; CSS</a></li></del>
